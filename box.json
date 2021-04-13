@@ -1,17 +1,17 @@
 {
- "id": "com.sap.sample.coloredbox",
+ "id": "com.sample.box",
  "version": "1.0.0",
- "name": "Colored Box",
+ "name": "Box",
  "description": "A colored box",
- "newInstancePrefix": "ColoredBox",
- "icon": "https://www.sample.com/customwidgets/coloredbox/icon.png",
- "vendor": "SAP",
+ "newInstancePrefix": "Box",
+ "icon": "https://www.sample.com/customwidgets/box/icon.png",
+ "vendor": "Sample",
  "eula": "",
  "license": "",
  "webcomponents": [
  {
  "kind": "main",
-"tag": "com-sap-sample-coloredbox",
+"tag": "com-sap-sample-box",
  "url": "https://www.sample.com/customwidgets/coloredbox/
 coloredbox.js",
  "integrity": "",
