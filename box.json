@@ -19,16 +19,14 @@
  {
  "kind": "styling",
  "tag": "com-sap-sample-coloredbox-styling",
- "url": "https://www.sample.com/customwidgets/coloredbox/
-coloredbox_styling.js",
+ "url": "https://github.com/Reginek-SAC/coloredbox/coloredbox-styling.js",
  "integrity": "",
  "ignoreIntegrity": true
  },
  {
  "kind": "builder",
  "tag": "com-sap-sample-coloredbox-builder",
- "url": "https://www.sample.com/customwidgets/coloredbox/
-coloredbox_builder.js",
+ "url": "https://github.com/Reginek-SAC/coloredbox/coloredbox_builder.js",
  "integrity": "",
  "ignoreIntegrity": true
  }
