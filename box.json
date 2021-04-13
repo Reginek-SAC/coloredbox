@@ -4,16 +4,15 @@
  "name": "Box",
  "description": "A colored box",
  "newInstancePrefix": "Box",
- "icon": "https://www.sample.com/customwidgets/box/icon.png",
+ "icon": "https://github.com/Reginek-SAC/coloredbox/icon.png",
  "vendor": "Sample",
  "eula": "",
  "license": "",
  "webcomponents": [
  {
  "kind": "main",
-"tag": "com-sap-sample-box",
- "url": "https://www.sample.com/customwidgets/coloredbox/
-coloredbox.js",
+"tag": "com-sample-box-styling",
+ "url": "https://github.com/Reginek-SAC/coloredbox/coloredbox.js",
  "integrity": "",
  "ignoreIntegrity": true
  },
