@@ -48,6 +48,6 @@ newOpacity;
  return this._shadowRoot.getElementById("builder_opacity").value;
     }
  }
- customElements.define("com-sap-sample-coloredbox-builder",
+ customElements.define("com-sample-coloredbox-builder",
 ColoredBoxBuilderPanel);
 })();
